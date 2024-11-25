@@ -1,3 +1,9 @@
+/*
+ ADEINF-A  - Estructura de Computadoras
+ Taller Final
+ Noviembre 2024
+ Alberto Cano y Gonzalo Ruiz
+*/
 #include <iostream>
 #include <string>
 using namespace std;
